@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A DIAMONDE moſt Precious, worthy to be marked: Inſtructing all Mayſters and Seruauntes, how they oug
+
 1. ❧ To the Right Worſhipful, the Mayſters, and Wardens, of the companies of the Cittie of London, Iohn Fit Iohn, wiſheth long lyfe, continuall health, and proſperous felicitie.
 
 #####Body#####
@@ -96,32 +96,28 @@ There are 4 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|7||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|7||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -129,24 +125,22 @@ There are 4 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__bibl__|1||
-|2.|__body__|1||
-|3.|__closer__|9||
-|4.|__desc__|4||
-|5.|__div__|12| @__type__ (12) : title_page (1), dedication (1), dialogue (1), prayer (7), exhortation (2)|
-|6.|__figure__|1||
-|7.|__front__|1||
-|8.|__g__|749| @__ref__ (749) : char:EOLhyphen (625), char:leaf (2), char:cmbAbbrStroke (116), char:punc (4), char:EOLunhyphen (2)|
-|9.|__gap__|4| @__reason__ (4) : illegible: blotted (4)  •  @__extent__ (4) : 3 letters (1), 1 letter (1), 2 letters (2)|
-|10.|__head__|11||
-|11.|__hi__|98| @__rend__ (41) : sup (41)|
-|12.|__l__|4||
-|13.|__lb__|1||
-|14.|__note__|285| @__place__ (285) : margin (285)|
-|15.|__p__|338||
-|16.|__pb__|110| @__facs__ (110) : tcp:18315:1 (2), tcp:18315:2 (2), tcp:18315:3 (2), tcp:18315:4 (2), tcp:18315:5 (2), tcp:18315:6 (2), tcp:18315:7 (2), tcp:18315:8 (2), tcp:18315:9 (2), tcp:18315:10 (2), tcp:18315:11 (2), tcp:18315:12 (2), tcp:18315:13 (2), tcp:18315:16 (2), tcp:18315:15 (2), tcp:18315:14 (2), tcp:18315:17 (2), tcp:18315:18 (2), tcp:18315:19 (2), tcp:18315:20 (2), tcp:18315:21 (2), tcp:18315:22 (2), tcp:18315:23 (2), tcp:18315:24 (2), tcp:18315:25 (2), tcp:18315:26 (2), tcp:18315:27 (2), tcp:18315:28 (2), tcp:18315:29 (2), tcp:18315:30 (2), tcp:18315:31 (2), tcp:18315:32 (2), tcp:18315:33 (2), tcp:18315:34 (2), tcp:18315:35 (2), tcp:18315:36 (2), tcp:18315:37 (2), tcp:18315:38 (2), tcp:18315:39 (2), tcp:18315:40 (2), tcp:18315:41 (2), tcp:18315:42 (2), tcp:18315:43 (2), tcp:18315:44 (2), tcp:18315:45 (2), tcp:18315:46 (2), tcp:18315:47 (2), tcp:18315:48 (2), tcp:18315:49 (2), tcp:18315:50 (2), tcp:18315:51 (2), tcp:18315:52 (2), tcp:18315:53 (2), tcp:18315:54 (2), tcp:18315:55 (2)  •  @__rendition__ (2) : simple:additions (2)|
-|17.|__q__|2||
-|18.|__seg__|11| @__rend__ (11) : decorInit (11)|
-|19.|__signed__|1||
-|20.|__sp__|243||
-|21.|__speaker__|243||
-|22.|__trailer__|2||
+|2.|__closer__|9||
+|3.|__desc__|4||
+|4.|__div__|12| @__type__ (12) : title_page (1), dedication (1), dialogue (1), prayer (7), exhortation (2)|
+|5.|__figure__|1||
+|6.|__g__|749| @__ref__ (749) : char:EOLhyphen (625), char:leaf (2), char:cmbAbbrStroke (116), char:punc (4), char:EOLunhyphen (2)|
+|7.|__gap__|4| @__reason__ (4) : illegible: blotted (4)  •  @__extent__ (4) : 3 letters (1), 1 letter (1), 2 letters (2)|
+|8.|__head__|11||
+|9.|__hi__|98| @__rend__ (41) : sup (41)|
+|10.|__l__|4||
+|11.|__lb__|1||
+|12.|__note__|285| @__place__ (285) : margin (285)|
+|13.|__p__|338||
+|14.|__pb__|110| @__facs__ (110) : tcp:18315:1 (2), tcp:18315:2 (2), tcp:18315:3 (2), tcp:18315:4 (2), tcp:18315:5 (2), tcp:18315:6 (2), tcp:18315:7 (2), tcp:18315:8 (2), tcp:18315:9 (2), tcp:18315:10 (2), tcp:18315:11 (2), tcp:18315:12 (2), tcp:18315:13 (2), tcp:18315:16 (2), tcp:18315:15 (2), tcp:18315:14 (2), tcp:18315:17 (2), tcp:18315:18 (2), tcp:18315:19 (2), tcp:18315:20 (2), tcp:18315:21 (2), tcp:18315:22 (2), tcp:18315:23 (2), tcp:18315:24 (2), tcp:18315:25 (2), tcp:18315:26 (2), tcp:18315:27 (2), tcp:18315:28 (2), tcp:18315:29 (2), tcp:18315:30 (2), tcp:18315:31 (2), tcp:18315:32 (2), tcp:18315:33 (2), tcp:18315:34 (2), tcp:18315:35 (2), tcp:18315:36 (2), tcp:18315:37 (2), tcp:18315:38 (2), tcp:18315:39 (2), tcp:18315:40 (2), tcp:18315:41 (2), tcp:18315:42 (2), tcp:18315:43 (2), tcp:18315:44 (2), tcp:18315:45 (2), tcp:18315:46 (2), tcp:18315:47 (2), tcp:18315:48 (2), tcp:18315:49 (2), tcp:18315:50 (2), tcp:18315:51 (2), tcp:18315:52 (2), tcp:18315:53 (2), tcp:18315:54 (2), tcp:18315:55 (2)  •  @__rendition__ (2) : simple:additions (2)|
+|15.|__q__|2||
+|16.|__seg__|11| @__rend__ (11) : decorInit (11)|
+|17.|__signed__|1||
+|18.|__sp__|243||
+|19.|__speaker__|243||
+|20.|__trailer__|2||
